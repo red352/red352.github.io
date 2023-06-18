@@ -23,7 +23,7 @@ email: yunxiao141@foxmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   这个网站是一个Blog Website,基于Jekyll Minima,开始于2023/06/18 17:00
 /baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://red352.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyll
 github_username:  red352
 
