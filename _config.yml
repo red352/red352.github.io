@@ -32,6 +32,11 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-admin
+jekyll_admin:
+  basic_auth:
+    enabled: true
+    username: lyx
+    password: lyx@123456
   
 # Exclude from processing.
 # The following items will not be processed, by default.
