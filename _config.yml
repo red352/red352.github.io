@@ -31,7 +31,8 @@ github_username:  red352
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jekyll-admin
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
