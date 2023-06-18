@@ -1,8 +1,8 @@
 title: yunixao's blog
 email: yunxiao141@foxmail.com
 description: '这个网站是一个Blog Website,基于Jekyll Minima,开始于2023/06/18 17:00'
-/baseurl: 'https://red352.github.io'
-url: 'https://red352.github.io'
+baseurl: ''
+url: ''
 github_username: red352
 theme: minima
 plugins:
