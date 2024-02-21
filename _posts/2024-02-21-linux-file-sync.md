@@ -8,7 +8,7 @@ categories:
 
 使用rsync工具进行文件同步
 
-- 创建脚本文件
+- 创建脚本文件，脚本如下
 
     ``` shell
     rsync -avz --progress dir1 dir2 dir3 ubuntu@0.0.0.0:/home/ubuntu/sync
@@ -18,6 +18,10 @@ categories:
 
     ``` shell
     crontab -e
+    ```
+
+    ``` shell
+    0,30 * * * * bash /root/rsync.sh
     ```
 
 - 查看日志
