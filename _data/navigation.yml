@@ -1,0 +1,10 @@
+- name: Blog
+  link: /blog/
+- name: Categries
+  link: /categories/
+- name: Archives
+  link: /archives/
+- name: Doc
+  link: /docs/index.html
+- name: About
+  link: /about/
