@@ -6,7 +6,7 @@ published: true
 tags: 
 - k8s
 categories:
-- K8s
+- CI/CD
 ---
 
 参考k8s文档

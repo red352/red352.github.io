@@ -3,7 +3,7 @@ title: rsync实现linux文件定时同步
 layout: post
 date: '2024-02-21 00:00:00 +0800'
 categories:
-- linux
+- Linux
 ---
 
 使用rsync工具进行文件同步

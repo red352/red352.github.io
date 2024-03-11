@@ -3,7 +3,6 @@ title: redis配置
 layout: post
 date: '2023-11-14 00:00:00 +0800'
 categories:
-- Config
 - Redis
 ---
 

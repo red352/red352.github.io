@@ -3,17 +3,15 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: WElCOM TO MY PERSONAL BLOG PAGE
+title: (👉ﾟヮﾟ)👉👈(ﾟヮﾟ👈)
 show_sidebar: true
 ---
 
-# HI PEOPLE
+## HI THERE
 
 Nothing has been put here yet 😊😊
 
 ![Alt text](/img/image.png)
-
-Subscribe Me FIRST!
 
 EMAIL: <1829462342@qq.com>
 
