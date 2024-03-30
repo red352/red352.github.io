@@ -1,0 +1,10 @@
+- label: 文档
+  items:
+    - name: 介绍
+      link: /docs/
+- label: 模板
+  items:
+    - name: post模板
+      link: /docs/template/post/
+    - name: 如何安装
+      link: /docs/template/install/

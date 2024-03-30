@@ -1,0 +1,64 @@
+.category-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  /* 左对齐分类卡片 */
+  gap: 20px;
+  /* 卡片之间的间距 */
+  padding: 20px;
+  /* 添加整体内边距 */
+  animation: fade-in 0.5s ease-out;
+
+}
+
+.category-card {
+  width: 45%;
+  margin-bottom: 20px;
+  /* 卡片之间的垂直间距 */
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  /* 添加阴影的过渡效果 */
+  animation: slide-in 0.5s ease-out;
+
+}
+
+.category-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  /* 鼠标悬停时增加阴影效果 */
+}
+
+.category {
+  padding: 10px;
+}
+
+.category h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  /* 标题与列表之间的垂直间距 */
+}
+
+.category ul {
+  margin-top: 0;
+  /* 去掉列表的上边距 */
+  padding-left: 0;
+  /* 去掉列表的左填充 */
+}
+
+.category li {
+  margin-bottom: 5px;
+  list-style: decimal;
+}
+
+.category a {
+  text-decoration: none;
+  color: hsl(170, 41%, 38%);
+}
+
+.category a:hover {
+  text-decoration: underline;
+}

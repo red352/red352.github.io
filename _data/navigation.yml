@@ -1,0 +1,10 @@
+- name: 博客
+  link: /blog/
+- name: 分类
+  link: /categories/
+- name: 归档
+  link: /archives/
+- name: 文档
+  link: /docs/index.html
+- name: About
+  link: /about/

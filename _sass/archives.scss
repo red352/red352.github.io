@@ -1,0 +1,61 @@
+.archive-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.archive-section {
+    margin-bottom: 30px;
+}
+
+.archive-heading {
+    font-size: 28px;
+    font-weight: bold;
+    animation: fade-in 0.5s ease-out;
+}
+
+.archive-list {
+    padding: 0;
+}
+
+.archive-item {
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.archive-date {
+    
+    color: #888;
+}
+
+.archive-link {
+  
+    color: #333;
+    text-decoration: none;
+    animation: slide-in 0.5s ease-out;
+}
+
+.archive-link:hover {
+    text-decoration: underline;
+}
+
+.archive-navigation {
+    margin-top: 20px;
+    text-align: center;
+    animation: fade-in 0.5s ease-out;
+}
+
+.archive-nav-link {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    animation: slide-in 0.5s ease-out;
+}
+
+.archive-nav-link:hover {
+    background-color: #555;
+}
